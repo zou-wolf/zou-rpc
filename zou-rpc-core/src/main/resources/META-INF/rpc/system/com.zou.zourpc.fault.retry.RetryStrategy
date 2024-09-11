@@ -1,0 +1,2 @@
+no=com.zou.zourpc.fault.retry.NoRetryStrategy
+fixedInterval=com.zou.zourpc.fault.retry.FixedIntervalRetryStrategy

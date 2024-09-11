@@ -1,0 +1,4 @@
+failBack=com.zou.zourpc.fault.tolerant.TolerantStrategy
+failFast=com.zou.zourpc.fault.tolerant.TolerantStrategy
+failSafe=com.zou.zourpc.fault.tolerant.TolerantStrategy
+failOver=com.zou.zourpc.fault.tolerant.TolerantStrategy
